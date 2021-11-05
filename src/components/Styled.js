@@ -63,8 +63,8 @@ export const TourEl = styled.div`
 `;
 
 export const ImgFluid = styled.img`
-    max-width: 100%;
-    height: auto;
+    width: 100%;
+    height: 20rem;
     object-fit: cover;
 `;
 
